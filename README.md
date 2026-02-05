@@ -1,5 +1,6 @@
 # PoLi-RL: A Point-to-List Reinforcement Learning Framework for Conditional Semantic Textual Similarity
 This paper has been accepted to ICLR 2026. (Poster)
+![PoLi-RL](https://github.com/prophesierimposing/PoLi-RL/blob/main/PoLi-RL%20Architecture.png)
 
 ## Quick Start
 
