@@ -69,7 +69,3 @@
           --report_to tensorboard
       ```
 
-## Checkpoint
-
-- Link: https://gofile.io/d/UQijKV
-
